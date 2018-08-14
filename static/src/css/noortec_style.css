@@ -1,0 +1,100 @@
+@font-face {
+    font-family: 'yekan';
+    src: url('/artarad_noortec_website/static/src/fonts/BYekan.ttf') format('truetype'),
+    url('/artarad_noortec_website/static/src/fonts/BYekan.eot') format('eot'),
+    url('/artarad_noortec_website/static/src/fonts/BYekan.woff') format('woff');
+
+    font-family: 'Open Sans';
+    src: url('/artarad_noortec_website/static/src/fonts/OpenSans-Regular.ttf') format('truetype');
+
+    font-family: 'Montserrat';
+    src: url('/artarad_noortec_website/static/src/fonts/Montserrat-Regular.ttf') format('truetype'),
+
+}
+
+.common_footer_content_details_div {
+
+    padding-bottom: 0px;
+}
+
+.espinas {
+    height: 37px;
+    padding-top: 9px;
+    background: #cd2122;
+    color: white;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.espinas-p {
+    float: right;
+    text-align: right !important;
+    color: #cacaca;
+}
+
+.site-header .topnav.social-icons.sc--clean .social-icons-li, .site-header .topnav.social-icons .social-icons-li:first-child {
+    margin-left: 10px;
+}
+
+.fa {
+    color: white;
+}
+
+/*#wrapwrap > * {*/
+/*display: block !important;*/
+/*}*/
+.col-md-6 h3 {
+
+    color: #cd2122;
+}
+
+h2 {
+    color: #cd2122;
+
+}
+
+body .text-gamma {
+    color: #cd2122;
+}
+
+.btn {
+
+    color: #1e73be;
+
+    border: 2px solid #1e73be !important;
+    background-color: unset;
+   }
+/*.btn:hover,.btn:active:hover{*/
+      /*border: 2px solid #cd2122 !important;*/
+     /*color: #cd2122;*/
+    /*background-color: unset;*/
+/*}*/
+/*.btn-info:active:hover,  .btn-info:focus {*/
+      /*border: 2px solid #cd2122 !important;*/
+
+/*}*/
+
+.btn-info {
+    background-color: unset;
+
+}
+p{
+    font-family: "Open Sans",Helvetica;
+}
+.btn-fullcolor {
+
+    border: unset !important;
+}
+
+
+.iosslider-slideshow .iosSlider {
+    height: 100%;
+    position: absolute;
+    top: -250px !important;
+    left: 0;
+}
