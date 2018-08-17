@@ -375,7 +375,7 @@
     }
 }
 
-.iosSliderNav .znSlickNav-arr, .iosSliderNav .znSlickNav-arr .btn-label, .iosSlider.hideCaptions .kl-iosslide-caption, .kl-ios-selectors-block.thumbs .item, .kl-ios-selectors-block.thumbs, .thumbTrayButton {
+ .znSlickNav-arr,  .znSlickNav-arr .btn-label, .iosSlider.hideCaptions .kl-iosslide-caption, .kl-ios-selectors-block.thumbs .item, .kl-ios-selectors-block.thumbs, .thumbTrayButton {
     -webkit-transition: all 0.2s ease-out;
     transition: all 0.2s ease-out;
 }
@@ -1684,7 +1684,7 @@
     width: auto;
 }
 
-.iosSliderNav .znSlickNav-arr {
+ .znSlickNav-arr {
     position: absolute;
     top: 50%;
     margin-top: -25px;
@@ -1695,45 +1695,45 @@
     cursor: pointer;
 }
 
-.iosSliderNav .znSlickNav-arr svg {
+ .znSlickNav-arr svg {
     width: 50px;
     height: 50px;
 }
 
-.iosSliderNav .znSlickNav-arr polyline {
+ .znSlickNav-arr polyline {
     stroke: #fff;
     stroke-width: 5;
 }
 
-.iosSliderNav .znSlickNav-arr:hover polyline {
+ .znSlickNav-arr:hover polyline {
     stroke-width: 10;
 }
 
-.iosSliderNav .znSlickNav-arr:active polyline {
+ .znSlickNav-arr:active polyline {
     stroke-width: 15;
 }
 
-.iosSliderNav .znSlickNav-prev {
+ .znSlickNav-prev {
     left: 35px;
 }
 
-.iosSliderNav .znSlickNav-prev:hover {
+ .znSlickNav-prev:hover {
     left: 20px;
 }
 
-.iosSliderNav .znSlickNav-next {
+ .znSlickNav-next {
     right: 35px;
 }
 
-.iosSliderNav .znSlickNav-next:hover {
+ .znSlickNav-next:hover {
     right: 20px;
 }
 
-.iosSliderNav .znSlickNav-arr:hover {
+ .znSlickNav-arr:hover {
     opacity: 1 !important;
 }
 
-.iosSliderNav .znSlickNav-arr .btn-label {
+ .znSlickNav-arr .btn-label {
     background: rgba(0, 0, 0, 0.4);
     color: #fff;
     font-weight: 700;
@@ -1747,20 +1747,20 @@
     display: none;
 }
 
-.iosSliderNav .znSlickNav-prev .btn-label {
+ .znSlickNav-prev .btn-label {
     right: -20px;
 }
 
-.iosSliderNav .znSlickNav-next .btn-label {
+ .znSlickNav-next .btn-label {
     left: -20px;
 }
 
-.iosSliderNav .znSlickNav-prev:hover .btn-label {
+ .znSlickNav-prev:hover .btn-label {
     right: -5px;
     opacity: 1;
 }
 
-.iosSliderNav .znSlickNav-next:hover .btn-label {
+ .znSlickNav-next:hover .btn-label {
     left: -5px;
     opacity: 1;
 }
@@ -2156,11 +2156,7 @@
 @media only screen and (min-width: 1280px) and (max-width: 1440px) {
 }
 
-@media (max-width: 1279px) {
-    .iosSliderNav {
-        display: none;
-    }
-}
+
 
 @media only screen and (min-width: 992px) and (max-width: 1279px) {
     .iosSlider .kl-iosslide-caption .main_title {

@@ -8607,7 +8607,7 @@ ul.topnav {
 }
 
 .kl-slideshow, .page-subheader {
-    position: relative;
+    position: absolute;
     top: 0;
     z-index: 0;
     width: 100%
