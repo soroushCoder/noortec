@@ -9,7 +9,7 @@
         Customize theme for noortec website
     """,
 
-    'author': "Mohammad Hassanzadeh",
+    'author': "Mohammad Hassanzadeh & Soroush Ebadi",
     'website': "http://www.artarad.ir",
 
     # Categories can be used to filter modules in modules listing
