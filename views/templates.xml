@@ -16,6 +16,8 @@
                 <link rel="stylesheet" type="text/css"
                       href="/artarad_noortec_website/static/src/css/noortec_style.css"/>
                 <link rel="stylesheet" type="text/css" href="/artarad_noortec_website/static/src/css/zn_dynamic.css"/>
+                <link rel="stylesheet" type="text/css"
+                      href="/artarad_noortec_website/static/src/css/owl.carousel.min.css"/>
 
                 <link rel="stylesheet" type="text/css"
                       href="/artarad_noortec_website/static/src/css/slick.css"/>
@@ -23,10 +25,10 @@
                       href="/artarad_noortec_website/static/src/css/slick-theme.css"/>
                 <script type="text/javascript" src="/artarad_noortec_website/static/src/js/plugins.min.js"></script>
                 <script type="text/javascript" src="/artarad_noortec_website/static/src/js/echo.js"></script>
-                <script type="text/javascript" src="/artarad_noortec_website/static/src/js/znscript.min.js"></script>
+                <!--<script type="text/javascript" src="/artarad_noortec_website/static/src/js/znscript.min.js"></script>-->
                 <script type="text/javascript" src="/artarad_noortec_website/static/src/js/slick.min.js"></script>
                 <script type="text/javascript" src="/artarad_noortec_website/static/src/js/wp-embed.min.js"></script>
-
+                <script type="text/javascript" src="/artarad_noortec_website/static/src/js/owl.carousel.js"></script>
 
             </xpath>
         </template>
@@ -695,15 +697,15 @@
 
             <!--<xpath expr="//div[@class='collapse navbar-collapse navbar-top-collapse']" position="replace">-->
             <xpath expr="//div[@id='wrapwrap']" position="before">
-                <script>(function (d, s, id) {
-                    var js, fjs = d.getElementsByTagName(s)[0];
-                    if (d.getElementById(id)) return;
-                    js = d.createElement(s);
-                    js.id = id;
-                    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1";
-                    fjs.parentNode.insertBefore(js, fjs);
-                    }(document, 'script', 'facebook-jssdk'));
-                </script>
+                <!--<script>(function (d, s, id) {-->
+                <!--var js, fjs = d.getElementsByTagName(s)[0];-->
+                <!--if (d.getElementById(id)) return;-->
+                <!--js = d.createElement(s);-->
+                <!--js.id = id;-->
+                <!--js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1";-->
+                <!--fjs.parentNode.insertBefore(js, fjs);-->
+                <!--}(document, 'script', 'facebook-jssdk'));-->
+                <!--</script>-->
 
                 <script type="text/javascript">
                     /* <![CDATA[ */
@@ -711,9 +713,7 @@ var zn_do_login = {"ajaxurl":"\/wp-admin\/admin-ajax.php","add_to_cart_text":"It
 var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back","zn_color_theme":"light","res_menu_trigger":"992","top_offset_tolerance":"20","logout_url":"http:\/\/www.noortec.com\/wp-login.php?action=logout&redirect_to=http%3A%2F%2Fwww.noortec.com&_wpnonce=7b11f7c640"};
 /* ]]> */
                 </script>
-                <script type="text/javascript">
-                    $('.carousel').carousel();
-                </script>
+
 
             </xpath>
 
@@ -1357,333 +1357,170 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
                 </section>
 
-                <section>
-                    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-                        <!-- Indicators -->
-                        <ol class="carousel-indicators">
-                            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-                            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-                            <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-                        </ol>
+                <section id="demos">
 
-                        <!-- Wrapper for slides -->
-                        <div class="carousel-inner" role="listbox">
-                            <div class="item active">
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="col-md-4"
-                                             data-slick-index="2" aria-hidden="false" tabindex="-1" role="option"
-                                             aria-describedby="12">
-                                            <a href="http://www.noortec.com/koenig-bauer-growing-service-business-packaging-digital-printing-markets/"
-                                               class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
-                                               tabindex="0">
-                                                <img class="latest-posts-crs-img"
-                                                     src="http://www.noortec.com/wp-content/uploads/2017/08/F1_RapidaLiveApp-420x240.jpg"
-                                                     width="420" height="240" alt="" title="F1_RapidaLiveApp"/>
-                                                <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
-                                                    Read more +
-                                                </span>
-                                            </a>
-                                            <em class="latest-posts-crs-details">
-                                                09/08/2017 By admin in													<a
-                                                    href="http://www.noortec.com/category/all-news/"
-                                                    title="View all posts in All News" tabindex="0">All News</a>,
-                                                <a
-                                                        href="http://www.noortec.com/category/all-news/kba/"
-                                                        title="View all posts in KBA News" tabindex="0">KBA News
-                                                </a>
-                                            </em>
-                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
-                                                itemprop="headline">
-                                                <a class="latest-posts-crs-title-link"
-                                                   href="http://www.noortec.com/koenig-bauer-growing-service-business-packaging-digital-printing-markets/"
-                                                   tabindex="0">Koenig &amp; Bauer growing in the service business and
-                                                    in the
-                                                    packaging and digital printing markets
-                                                </a>
-                                            </h3>
-                                        </div>
-                                        <div class="col-md-4"
-                                             aria-hidden="false" tabindex="-1" role="option"
-                                             aria-describedby="slick-slide13"
-                                        >
-                                            <a href="http://www.noortec.com/commercials-packaging-kba-rapida-75-pro/"
-                                               class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
-                                               tabindex="0">
-                                                <img class="latest-posts-crs-img"
-                                                     src="http://www.noortec.com/wp-content/uploads/2017/08/F1_29798-009-420x240.jpg"
-                                                     width="420" height="240" alt="" title="F1_29798-009"/>
-                                                <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
-                                                    Read more +
-                                                </span>
-                                            </a>
-                                            <em class="latest-posts-crs-details">
-                                                04/08/2017 By admin in													<a
-                                                    href="http://www.noortec.com/category/all-news/"
-                                                    title="View all posts in All News" tabindex="0">All News</a>,
-                                                <a
-                                                        href="http://www.noortec.com/category/all-news/kba/"
-                                                        title="View all posts in KBA News" tabindex="0">KBA News
-                                                </a>
-                                            </em>
-                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
-                                                itemprop="headline">
-                                                <a class="latest-posts-crs-title-link"
-                                                   href="http://www.noortec.com/commercials-packaging-kba-rapida-75-pro/"
-                                                   tabindex="0">Commercials and packaging on the KBA Rapida 75 PRO
-                                                </a>
-                                            </h3>
-                                        </div>
-                                        <div class="col-md-4"
-                                             aria-hidden="false" tabindex="-1" role="option"
-                                             aria-describedby="slick-slide14"
-                                        >
-                                            <a href="http://www.noortec.com/b2b-production-rapida-75-pro-previous-next/"
-                                               class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
-                                               tabindex="0">
-                                                <img class="latest-posts-crs-img"
-                                                     src="http://www.noortec.com/wp-content/uploads/2017/08/29798-032-420x240.jpg"
-                                                     width="420" height="240" alt="" title="29798-032"/>
-                                                <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
-                                                    Read more +
-                                                </span>
-                                            </a>
-                                            <em class="latest-posts-crs-details">
-                                                03/08/2017 By admin in													<a
-                                                    href="http://www.noortec.com/category/all-news/"
-                                                    title="View all posts in All News" tabindex="0">All News</a>,
-                                                <a
-                                                        href="http://www.noortec.com/category/all-news/kba/"
-                                                        title="View all posts in KBA News" tabindex="0">KBA News
-                                                </a>
-                                            </em>
-                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
-                                                itemprop="headline">
-                                                <a class="latest-posts-crs-title-link"
-                                                   href="http://www.noortec.com/b2b-production-rapida-75-pro-previous-next/"
-                                                   tabindex="0">B2B-PRODUCTION ON THE RAPIDA 75 PRO Previous Next
-                                                </a>
-                                            </h3>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="col-md-4"
-                                             data-slick-index="5" aria-hidden="false" tabindex="-1" role="option"
-                                             aria-describedby="slick-slide15">
-                                            <a href="http://www.noortec.com/eight-colour-kba-rapida-145-neografia/"
-                                               class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
-                                               tabindex="0">
-                                                <img class="latest-posts-crs-img"
-                                                     src="http://www.noortec.com/wp-content/uploads/2017/07/F1_KBA_01_g-420x240.jpg"
-                                                     width="420" height="240" alt="" title="F1_KBA_01_g"/>
-                                                <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
-                                                    Read more +
-                                                </span>
-                                            </a>
-                                            <em class="latest-posts-crs-details">
-                                                20/07/2017 By admin in													<a
-                                                    href="http://www.noortec.com/category/all-news/"
-                                                    title="View all posts in All News" tabindex="0">All News</a>,
-                                                <a
-                                                        href="http://www.noortec.com/category/all-news/kba/"
-                                                        title="View all posts in KBA News" tabindex="0">KBA News
-                                                </a>
-                                            </em>
-                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
-                                                itemprop="headline">
-                                                <a class="latest-posts-crs-title-link"
-                                                   href="http://www.noortec.com/eight-colour-kba-rapida-145-neografia/"
-                                                   tabindex="0">Eight-colour KBA Rapida 145 for Neografia
-                                                </a>
-                                            </h3>
-                                        </div>
-                                        <div class="col-md-4"
-                                             aria-hidden="false" tabindex="-1" role="option"
-                                             aria-describedby="slick-slide16"
-                                        >
-                                            <a href="http://www.noortec.com/first-kba-rapida-75-pro-led-uv-poland/"
-                                               class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
-                                               tabindex="0">
-                                                <img class="latest-posts-crs-img"
-                                                     src="http://www.noortec.com/wp-content/uploads/2017/08/F01_colorpress_g-420x240.jpg"
-                                                     width="420" height="240" alt="" title="F01_colorpress_g"/>
-                                                <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
-                                                    Read more +
-                                                </span>
-                                            </a>
-                                            <em class="latest-posts-crs-details">
-                                                13/07/2017 By admin in													<a
-                                                    href="http://www.noortec.com/category/all-news/"
-                                                    title="View all posts in All News" tabindex="0">All News</a>,
-                                                <a
-                                                        href="http://www.noortec.com/category/all-news/kba/"
-                                                        title="View all posts in KBA News" tabindex="0">KBA News
-                                                </a>
-                                            </em>
-                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
-                                                itemprop="headline">
-                                                <a class="latest-posts-crs-title-link"
-                                                   href="http://www.noortec.com/first-kba-rapida-75-pro-led-uv-poland/"
-                                                   tabindex="0">First KBA Rapida 75 PRO with LED-UV in Poland
-                                                </a>
-                                            </h3>
-                                        </div>
-                                        <div class="col-md-4"
-                                             aria-hidden="false" tabindex="-1" role="option"
-                                             aria-describedby="slick-slide17"
-                                        >
-                                            <a href="http://www.noortec.com/kba-coordinates-major-russian-investment-modern-book-production/"
-                                               class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
-                                               tabindex="0">
-                                                <img class="latest-posts-crs-img"
-                                                     src="http://www.noortec.com/wp-content/uploads/2017/07/csm_F2_IMG_20170126_164704_g_d792572ca1-420x240.jpg"
-                                                     width="420" height="240" alt=""
-                                                     title="csm_F2_IMG_20170126_164704_g_d792572ca1"/>
-                                                <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
-                                                    Read more +
-                                                </span>
-                                            </a>
-                                            <em class="latest-posts-crs-details">
-                                                06/07/2017 By admin in													<a
-                                                    href="http://www.noortec.com/category/all-news/"
-                                                    title="View all posts in All News" tabindex="0">All News</a>,
-                                                <a
-                                                        href="http://www.noortec.com/category/all-news/kba/"
-                                                        title="View all posts in KBA News" tabindex="0">KBA News
-                                                </a>
-                                            </em>
-                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
-                                                itemprop="headline">
-                                                <a class="latest-posts-crs-title-link"
-                                                   href="http://www.noortec.com/kba-coordinates-major-russian-investment-modern-book-production/"
-                                                   tabindex="0">KBA coordinates major Russian investment in modern book
-                                                    production
-                                                </a>
-                                            </h3>
-                                        </div>
-                                    </div>
-                                </div>
+                    <div class="large-12 columns">
+                        <div class="owl-carousel owl-theme owl-loaded owl-drag">
 
 
-                            </div>
-                            <div class="item">
-                                <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="col-md-4"
-                                             data-slick-index="8" aria-hidden="false" tabindex="-1" role="option"
-                                             aria-describedby="slick-slide18">
-                                            <a href="http://www.noortec.com/fully-equipped-kba-rapida-106-deluxe-packages/"
-                                               class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
-                                               tabindex="0">
-                                                <img class="latest-posts-crs-img"
-                                                     src="http://www.noortec.com/wp-content/uploads/2017/07/csm_F1_20160610_125031_g_fde89a891a-1-420x240.jpg"
-                                                     width="420" height="240" alt=""
-                                                     title="csm_F1_20160610_125031_g_fde89a891a (1)"/>
-                                                <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
-                                                    Read more +
-                                                </span>
-                                            </a>
-                                            <em class="latest-posts-crs-details">
-                                                30/06/2017 By admin in													<a
-                                                    href="http://www.noortec.com/category/all-news/"
-                                                    title="View all posts in All News" tabindex="0">All News</a>,
-                                                <a
-                                                        href="http://www.noortec.com/category/all-news/kba/"
-                                                        title="View all posts in KBA News" tabindex="0">KBA News
+                            <div class="owl-stage-outer">
+                                <div class="owl-stage">
+                                    <div class="owl-item ">
+                                        <div class="item">
+                                            <div class="post latest-posts-crs-post  slick-cloned" style="width: 380px;" tabindex="-1" role="option" aria-describedby="slick-slide27" data-slick-index="-3" aria-hidden="true">
+                                                <a href="http://www.noortec.com/kba-coordinates-major-russian-investment-modern-book-production/" class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov" tabindex="-1">
+                                                    <img class="latest-posts-crs-img" src="http://www.noortec.com/wp-content/uploads/2017/07/csm_F2_IMG_20170126_164704_g_d792572ca1-420x240.jpg" width="420" height="240" alt="" title="csm_F2_IMG_20170126_164704_g_d792572ca1"/>													<span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">Read more +</span>
                                                 </a>
-                                            </em>
-                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
-                                                itemprop="headline">
-                                                <a class="latest-posts-crs-title-link"
-                                                   href="http://www.noortec.com/fully-equipped-kba-rapida-106-deluxe-packages/"
-                                                   tabindex="0">Fully equipped KBA Rapida 106 for Deluxe Packages
-                                                </a>
-                                            </h3>
-                                        </div>
-                                        <div class="col-md-4"
-                                             aria-hidden="false" tabindex="-1" role="option"
-                                             aria-describedby="slick-slide19"
-                                        >
-                                            <a href="http://www.noortec.com/built-needs-kba-b2-presses/"
-                                               class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
-                                               tabindex="0">
-                                                <img class="latest-posts-crs-img"
-                                                     src="http://www.noortec.com/wp-content/uploads/2017/07/F1_DSC6772_g-420x240.jpg"
-                                                     width="420" height="240" alt="" title="F1_DSC6772_g"/>
-                                                <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
-                                                    Read more +
-                                                </span>
-                                            </a>
-                                            <em class="latest-posts-crs-details">
-                                                27/06/2017 By admin in													<a
-                                                    href="http://www.noortec.com/category/all-news/"
-                                                    title="View all posts in All News" tabindex="0">All News</a>,
-                                                <a
-                                                        href="http://www.noortec.com/category/all-news/kba/"
-                                                        title="View all posts in KBA News" tabindex="0">KBA News
-                                                </a>
-                                            </em>
-                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
-                                                itemprop="headline">
-                                                <a class="latest-posts-crs-title-link"
-                                                   href="http://www.noortec.com/built-needs-kba-b2-presses/"
-                                                   tabindex="0">Built
-                                                    for Your Needs. The KBA B2 Presses.
-                                                </a>
-                                            </h3>
-                                        </div>
-                                        <div class="col-md-4"
-                                             data-slick-index="10" aria-hidden="false" tabindex="-1">
-                                            <a href="http://www.noortec.com/evo-xd-leading-ink-manufacturer-japan/"
-                                               class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
-                                               tabindex="0">
-                                                <img class="latest-posts-crs-img"
-                                                     src="http://www.noortec.com/wp-content/uploads/2017/08/Foto-EVO-XD-BLU-x-poster_g-420x240.jpg"
-                                                     width="420" height="240" alt=""
-                                                     title="Foto-EVO-XD-BLU-x-poster_g"/>
-                                                <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
-                                                    Read more +
-                                                </span>
-                                            </a>
-                                            <em class="latest-posts-crs-details">
-                                                21/08/2017 By admin in													<a
-                                                    href="http://www.noortec.com/category/all-news/"
-                                                    title="View all posts in All News" tabindex="0">All News</a>,
-                                                <a
-                                                        href="http://www.noortec.com/category/all-news/kba/"
-                                                        title="View all posts in KBA News" tabindex="0">KBA News
-                                                </a>
-                                            </em>
-                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
-                                                itemprop="headline">
-                                                <a class="latest-posts-crs-title-link"
-                                                   href="http://www.noortec.com/evo-xd-leading-ink-manufacturer-japan/"
-                                                   tabindex="0">EVO XD for the leading ink manufacturer from Japan
-                                                </a>
-                                            </h3>
+                                                <em class="latest-posts-crs-details">
+                                                    06/07/2017													By													admin													in													<a href="http://www.noortec.com/category/all-news/" title="View all posts in All News" tabindex="-1">All News</a>, <a href="http://www.noortec.com/category/all-news/kba/" title="View all posts in KBA News" tabindex="-1">KBA News</a>												</em>
+                                                <h3 class="m_title m_title_ext text-custom latest-posts-crs-title" itemprop="headline"><a class="latest-posts-crs-title-link" href="http://www.noortec.com/kba-coordinates-major-russian-investment-modern-book-production/" tabindex="-1">KBA coordinates major Russian investment in modern book production</a></h3>
+                                            </div>
                                         </div>
                                     </div>
+                                    <div class="owl-item ">
+                                        <div class="item">
+                                            <div class="post latest-posts-crs-post  slick-active" style="width: 380px;" tabindex="-1" role="option" aria-describedby="slick-slide22" data-slick-index="2" aria-hidden="false">
+                                                <a href="http://www.noortec.com/koenig-bauer-growing-service-business-packaging-digital-printing-markets/" class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov" tabindex="0">
+                                                    <img class="latest-posts-crs-img" src="http://www.noortec.com/wp-content/uploads/2017/08/F1_RapidaLiveApp-420x240.jpg" width="420" height="240" alt="" title="F1_RapidaLiveApp"/>													<span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">Read more +</span>
+                                                </a>
+                                                <em class="latest-posts-crs-details">
+                                                    09/08/2017													By													admin													in													<a href="http://www.noortec.com/category/all-news/" title="View all posts in All News" tabindex="0">All News</a>, <a href="http://www.noortec.com/category/all-news/kba/" title="View all posts in KBA News" tabindex="0">KBA News</a>												</em>
+                                                <h3 class="m_title m_title_ext text-custom latest-posts-crs-title" itemprop="headline"><a class="latest-posts-crs-title-link" href="http://www.noortec.com/koenig-bauer-growing-service-business-packaging-digital-printing-markets/" tabindex="0">Koenig &amp; Bauer growing in the service business and in the packaging and digital printing markets</a></h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="owl-item ">
+                                        <div class="item">
+                                            <div class="post latest-posts-crs-post  slick-active" style="width: 380px;" tabindex="-1" role="option" aria-describedby="slick-slide23" data-slick-index="3" aria-hidden="false">
+                                                <a href="http://www.noortec.com/commercials-packaging-kba-rapida-75-pro/" class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov" tabindex="0">
+                                                    <img class="latest-posts-crs-img" src="http://www.noortec.com/wp-content/uploads/2017/08/F1_29798-009-420x240.jpg" width="420" height="240" alt="" title="F1_29798-009"/>													<span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">Read more +</span>
+                                                </a>
+                                                <em class="latest-posts-crs-details">
+                                                    04/08/2017													By													admin													in													<a href="http://www.noortec.com/category/all-news/" title="View all posts in All News" tabindex="0">All News</a>, <a href="http://www.noortec.com/category/all-news/kba/" title="View all posts in KBA News" tabindex="0">KBA News</a>												</em>
+                                                <h3 class="m_title m_title_ext text-custom latest-posts-crs-title" itemprop="headline"><a class="latest-posts-crs-title-link" href="http://www.noortec.com/commercials-packaging-kba-rapida-75-pro/" tabindex="0">Commercials and packaging on the KBA Rapida 75 PRO</a></h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="owl-item ">
+                                        <div class="item">
+                                            <div class="post latest-posts-crs-post  slick-current slick-active slick-item--activated" style="width: 380px;" tabindex="-1" role="option" aria-describedby="slick-slide24" data-slick-index="4" aria-hidden="false">
+                                                <a href="http://www.noortec.com/b2b-production-rapida-75-pro-previous-next/" class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov" tabindex="0">
+                                                    <img class="latest-posts-crs-img" src="http://www.noortec.com/wp-content/uploads/2017/08/29798-032-420x240.jpg" width="420" height="240" alt="" title="29798-032"/>													<span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">Read more +</span>
+                                                </a>
+                                                <em class="latest-posts-crs-details">
+                                                    03/08/2017													By													admin													in													<a href="http://www.noortec.com/category/all-news/" title="View all posts in All News" tabindex="0">All News</a>, <a href="http://www.noortec.com/category/all-news/kba/" title="View all posts in KBA News" tabindex="0">KBA News</a>												</em>
+                                                <h3 class="m_title m_title_ext text-custom latest-posts-crs-title" itemprop="headline"><a class="latest-posts-crs-title-link" href="http://www.noortec.com/b2b-production-rapida-75-pro-previous-next/" tabindex="0">B2B-PRODUCTION ON THE RAPIDA 75 PRO     Previous Next</a></h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="owl-item ">
+                                        <div class="item">
+                                            <div class="post latest-posts-crs-post  slick-active" style="width: 380px;" tabindex="-1" role="option" aria-describedby="slick-slide25" data-slick-index="5" aria-hidden="false">
+                                                <a href="http://www.noortec.com/eight-colour-kba-rapida-145-neografia/" class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov" tabindex="0">
+                                                    <img class="latest-posts-crs-img" src="http://www.noortec.com/wp-content/uploads/2017/07/F1_KBA_01_g-420x240.jpg" width="420" height="240" alt="" title="F1_KBA_01_g"/>													<span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">Read more +</span>
+                                                </a>
+                                                <em class="latest-posts-crs-details">
+                                                    20/07/2017													By													admin													in													<a href="http://www.noortec.com/category/all-news/" title="View all posts in All News" tabindex="0">All News</a>, <a href="http://www.noortec.com/category/all-news/kba/" title="View all posts in KBA News" tabindex="0">KBA News</a>												</em>
+                                                <h3 class="m_title m_title_ext text-custom latest-posts-crs-title" itemprop="headline"><a class="latest-posts-crs-title-link" href="http://www.noortec.com/eight-colour-kba-rapida-145-neografia/" tabindex="0">Eight-colour KBA Rapida 145 for Neografia</a></h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="owl-item ">
+                                        <div class="item">
+                                            <div class="post latest-posts-crs-post  slick-active" style="width: 380px;" tabindex="-1" role="option" aria-describedby="slick-slide26" data-slick-index="6" aria-hidden="false">
+                                                <a href="http://www.noortec.com/first-kba-rapida-75-pro-led-uv-poland/" class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov" tabindex="0">
+                                                    <img class="latest-posts-crs-img" src="http://www.noortec.com/wp-content/uploads/2017/08/F01_colorpress_g-420x240.jpg" width="420" height="240" alt="" title="F01_colorpress_g"/>													<span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">Read more +</span>
+                                                </a>
+                                                <em class="latest-posts-crs-details">
+                                                    13/07/2017													By													admin													in													<a href="http://www.noortec.com/category/all-news/" title="View all posts in All News" tabindex="0">All News</a>, <a href="http://www.noortec.com/category/all-news/kba/" title="View all posts in KBA News" tabindex="0">KBA News</a>												</em>
+                                                <h3 class="m_title m_title_ext text-custom latest-posts-crs-title" itemprop="headline"><a class="latest-posts-crs-title-link" href="http://www.noortec.com/first-kba-rapida-75-pro-led-uv-poland/" tabindex="0">First KBA Rapida 75 PRO with LED-UV in Poland</a></h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="owl-item">
+                                        <div class="item">
+                                            <div class="post latest-posts-crs-post  slick-current slick-active slick-item--activated" style="width: 380px;" tabindex="-1" role="option" aria-describedby="slick-slide27" data-slick-index="7" aria-hidden="false">
+                                                <a href="http://www.noortec.com/kba-coordinates-major-russian-investment-modern-book-production/" class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov" tabindex="0">
+                                                    <img class="latest-posts-crs-img" src="http://www.noortec.com/wp-content/uploads/2017/07/csm_F2_IMG_20170126_164704_g_d792572ca1-420x240.jpg" width="420" height="240" alt="" title="csm_F2_IMG_20170126_164704_g_d792572ca1"/>													<span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">Read more +</span>
+                                                </a>
+                                                <em class="latest-posts-crs-details">
+                                                    06/07/2017													By													admin													in													<a href="http://www.noortec.com/category/all-news/" title="View all posts in All News" tabindex="0">All News</a>, <a href="http://www.noortec.com/category/all-news/kba/" title="View all posts in KBA News" tabindex="0">KBA News</a>												</em>
+                                                <h3 class="m_title m_title_ext text-custom latest-posts-crs-title" itemprop="headline"><a class="latest-posts-crs-title-link" href="http://www.noortec.com/kba-coordinates-major-russian-investment-modern-book-production/" tabindex="0">KBA coordinates major Russian investment in modern book production</a></h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="owl-item">
+                                        <div class="item">
+                                            <div class="post latest-posts-crs-post  slick-active" style="width: 380px;" tabindex="-1" role="option" aria-describedby="slick-slide28" data-slick-index="8" aria-hidden="false">
+                                                <a href="http://www.noortec.com/fully-equipped-kba-rapida-106-deluxe-packages/" class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov" tabindex="0">
+                                                    <img class="latest-posts-crs-img" src="http://www.noortec.com/wp-content/uploads/2017/07/csm_F1_20160610_125031_g_fde89a891a-1-420x240.jpg" width="420" height="240" alt="" title="csm_F1_20160610_125031_g_fde89a891a (1)"/>													<span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">Read more +</span>
+                                                </a>
+                                                <em class="latest-posts-crs-details">
+                                                    30/06/2017													By													admin													in													<a href="http://www.noortec.com/category/all-news/" title="View all posts in All News" tabindex="0">All News</a>, <a href="http://www.noortec.com/category/all-news/kba/" title="View all posts in KBA News" tabindex="0">KBA News</a>												</em>
+                                                <h3 class="m_title m_title_ext text-custom latest-posts-crs-title" itemprop="headline"><a class="latest-posts-crs-title-link" href="http://www.noortec.com/fully-equipped-kba-rapida-106-deluxe-packages/" tabindex="0">Fully equipped KBA Rapida 106 for Deluxe Packages</a></h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="owl-item">
+                                        <div class="item">
+                                            <div class="post latest-posts-crs-post  slick-active" style="width: 380px;" tabindex="-1" role="option" aria-describedby="slick-slide29" data-slick-index="9" aria-hidden="false">
+                                                <a href="http://www.noortec.com/built-needs-kba-b2-presses/" class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov" tabindex="0">
+                                                    <img class="latest-posts-crs-img" src="http://www.noortec.com/wp-content/uploads/2017/07/F1_DSC6772_g-420x240.jpg" width="420" height="240" alt="" title="F1_DSC6772_g"/>													<span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">Read more +</span>
+                                                </a>
+                                                <em class="latest-posts-crs-details">
+                                                    27/06/2017													By													admin													in													<a href="http://www.noortec.com/category/all-news/" title="View all posts in All News" tabindex="0">All News</a>, <a href="http://www.noortec.com/category/all-news/kba/" title="View all posts in KBA News" tabindex="0">KBA News</a>												</em>
+                                                <h3 class="m_title m_title_ext text-custom latest-posts-crs-title" itemprop="headline"><a class="latest-posts-crs-title-link" href="http://www.noortec.com/built-needs-kba-b2-presses/" tabindex="0">Built for Your Needs. The KBA B2 Presses.</a></h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="owl-item">
+                                        <div class="item">
+                                            <div class="post latest-posts-crs-post  slick-cloned" style="width: 380px;" tabindex="-1" role="option" aria-describedby="slick-slide20" data-slick-index="10" aria-hidden="true">
+                                                <a href="http://www.noortec.com/evo-xd-leading-ink-manufacturer-japan/" class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov" tabindex="-1">
+                                                    <img class="latest-posts-crs-img" src="http://www.noortec.com/wp-content/uploads/2017/08/Foto-EVO-XD-BLU-x-poster_g-420x240.jpg" width="420" height="240" alt="" title="Foto-EVO-XD-BLU-x-poster_g"/>													<span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">Read more +</span>
+                                                </a>
+                                                <em class="latest-posts-crs-details">
+                                                    21/08/2017													By													admin													in													<a href="http://www.noortec.com/category/all-news/" title="View all posts in All News" tabindex="-1">All News</a>, <a href="http://www.noortec.com/category/all-news/kba/" title="View all posts in KBA News" tabindex="-1">KBA News</a>												</em>
+                                                <h3 class="m_title m_title_ext text-custom latest-posts-crs-title" itemprop="headline"><a class="latest-posts-crs-title-link" href="http://www.noortec.com/evo-xd-leading-ink-manufacturer-japan/" tabindex="-1">EVO XD for the leading ink manufacturer from Japan</a></h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="owl-item">
+                                        <div class="item">
+                                            <div class="post latest-posts-crs-post slick-item--activated  slick-cloned" style="width: 380px;" tabindex="-1" role="option" aria-describedby="slick-slide21" data-slick-index="11" aria-hidden="true">
+                                                <a href="http://www.noortec.com/exciting-puzzles-games-produced-rapida-presses/" class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov" tabindex="-1">
+                                                    <img class="latest-posts-crs-img" src="http://www.noortec.com/wp-content/uploads/2017/08/F1_29798-133_g-420x240.jpg" width="420" height="240" alt="" title="F1_29798-133_g"/>													<span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">Read more +</span>
+                                                </a>
+                                                <em class="latest-posts-crs-details">
+                                                    17/08/2017													By													admin													in													<a href="http://www.noortec.com/category/all-news/" title="View all posts in All News" tabindex="-1">All News</a>, <a href="http://www.noortec.com/category/all-news/kba/" title="View all posts in KBA News" tabindex="-1">KBA News</a>												</em>
+                                                <h3 class="m_title m_title_ext text-custom latest-posts-crs-title" itemprop="headline"><a class="latest-posts-crs-title-link" href="http://www.noortec.com/exciting-puzzles-games-produced-rapida-presses/" tabindex="-1">Exciting puzzles and games – all produced on Rapida presses</a></h3>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
                                 </div>
                             </div>
+
+                            <script>
+                                $(document).ready(function() {
+                                var owl = $('.owl-carousel');
+                                owl.owlCarousel({
+                                items: 3,
+                                loop: true,
+                                margin: 10,
+                                autoplay: true,
+                                autoplayTimeout: 5000,
+                                autoplayHoverPause: true
+                                });
+
+                                })
+                            </script>
                         </div>
-
-                        <!-- Controls -->
-                        <a class="left carousel-control" href="#carousel-example-generic" role="button"
-                           data-slide="prev">
-                            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                            <span class="sr-only">Previous</span>
-                        </a>
-                        <a class="right carousel-control" href="#carousel-example-generic" role="button"
-                           data-slide="next">
-                            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                            <span class="sr-only">Next</span>
-                        </a>
                     </div>
                 </section>
+
+
                 <section class="zn_section eluidf3608cd8     section-sidemargins    zn_section--relative section--no "
                          id="eluidf3608cd8">
 
@@ -1852,7 +1689,8 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
                                                                         <img class="ts-pt-partners__img img-responsive"
                                                                              src="http://www.noortec.com/wp-content/uploads/2017/04/10.png"
-                                                                             width="300" height="200" alt="" title="10"/>
+                                                                             width="300" height="200" alt=""
+                                                                             title="10"/>
 
 
                                                                     </div>
@@ -1863,7 +1701,8 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
                                                                         <img class="ts-pt-partners__img img-responsive"
                                                                              src="http://www.noortec.com/wp-content/uploads/2017/04/11.png"
-                                                                             width="300" height="200" alt="" title="11"/>
+                                                                             width="300" height="200" alt=""
+                                                                             title="11"/>
 
 
                                                                     </div>
@@ -1874,7 +1713,8 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
                                                                         <img class="ts-pt-partners__img img-responsive"
                                                                              src="http://www.noortec.com/wp-content/uploads/2017/04/12.png"
-                                                                             width="300" height="200" alt="" title="12"/>
+                                                                             width="300" height="200" alt=""
+                                                                             title="12"/>
 
 
                                                                     </div>
@@ -1885,7 +1725,8 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
                                                                         <img class="ts-pt-partners__img img-responsive"
                                                                              src="http://www.noortec.com/wp-content/uploads/2017/04/13.png"
-                                                                             width="300" height="200" alt="" title="13"/>
+                                                                             width="300" height="200" alt=""
+                                                                             title="13"/>
 
 
                                                                     </div>
@@ -2021,7 +1862,8 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
                                                                         <img class="ts-pt-partners__img img-responsive"
                                                                              src="http://www.noortec.com/wp-content/uploads/2017/04/10.png"
-                                                                             width="300" height="200" alt="" title="10"/>
+                                                                             width="300" height="200" alt=""
+                                                                             title="10"/>
 
 
                                                                     </div>
@@ -2034,7 +1876,8 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
                                                                         <img class="ts-pt-partners__img img-responsive"
                                                                              src="http://www.noortec.com/wp-content/uploads/2017/04/11.png"
-                                                                             width="300" height="200" alt="" title="11"/>
+                                                                             width="300" height="200" alt=""
+                                                                             title="11"/>
 
 
                                                                     </div>
@@ -2047,7 +1890,8 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
                                                                         <img class="ts-pt-partners__img img-responsive"
                                                                              src="http://www.noortec.com/wp-content/uploads/2017/04/12.png"
-                                                                             width="300" height="200" alt="" title="12"/>
+                                                                             width="300" height="200" alt=""
+                                                                             title="12"/>
 
 
                                                                     </div>
@@ -2060,7 +1904,8 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
 
                                                                         <img class="ts-pt-partners__img img-responsive"
                                                                              src="http://www.noortec.com/wp-content/uploads/2017/04/13.png"
-                                                                             width="300" height="200" alt="" title="13"/>
+                                                                             width="300" height="200" alt=""
+                                                                             title="13"/>
 
 
                                                                     </div>
@@ -2164,95 +2009,106 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                     </b>
                 </section>
                 <section>
-                <div class="laptop-slider__slideshow eluidb904304d uh_0   ls--lapt_desc"
-                     data-active-slide="0">
+                    <div class="laptop-slider__slideshow eluidb904304d uh_0   ls--lapt_desc"
+                         data-active-slide="0">
 
-                    <div class="bgback"></div>
-                    <div class="ls-source__mask ls-source__mask-back"></div>
-                    <div class="ls-source__mask ls-source__mask-front"></div>
-                    <div class="th-sparkles"></div>
+                        <div class="bgback"></div>
+                        <div class="ls-source__mask ls-source__mask-back"></div>
+                        <div class="ls-source__mask ls-source__mask-front"></div>
+                        <div class="th-sparkles"></div>
 
-                    <div class="laptop-slider__inner container ls--theme-dark">
-                        <div class=" ls__container kl-slideshow-safepadding">
+                        <div class="laptop-slider__inner container ls--theme-dark">
+                            <div class=" ls__container kl-slideshow-safepadding">
 
-                            <h3 class="ls__main-title" itemprop="headline">Product of month</h3>
-                            <div class="ls__laptop-mask">
+                                <h3 class="ls__main-title" itemprop="headline">Product of month</h3>
+                                <div class="ls__laptop-mask">
 
-                                <div class="ls__screen">
-                                    <div class="zn_laptop_slider_wrapper">
+                                    <div class="ls__screen">
+                                        <div class="zn_laptop_slider_wrapper">
 
-                                        <div class="fake-loading loading-1s fl--nobg"></div>
+                                            <div class="fake-loading loading-1s fl--nobg"></div>
 
 
-                                        <div class="zn_laptop_slider js-slick slick-initialized slick-slider"
-                                             data-details="#ls__left-desc-eluidb904304d"
-                                             data-slick="{&quot;infinite&quot;:true,&quot;autoplay&quot;:true,&quot;autoplaySpeed&quot;:5000,&quot;slidesToShow&quot;:1,&quot;slidesToScroll&quot;:1,&quot;easing&quot;:&quot;easeOutExpo&quot;,&quot;arrows&quot;:true,&quot;prevArrow&quot;:&quot;.eluidb904304d .ls__arrow-left&quot;,&quot;nextArrow&quot;:&quot;.eluidb904304d .ls__arrow-right&quot;,&quot;dots&quot;:true,&quot;appendDots&quot;:&quot;.eluidb904304d .ls__nav&quot;,&quot;activeIndex&quot;:&quot;.eluidb904304d&quot;}">
+                                            <div class="zn_laptop_slider js-slick slick-initialized slick-slider"
+                                                 data-details="#ls__left-desc-eluidb904304d"
+                                                 data-slick="{&quot;infinite&quot;:true,&quot;autoplay&quot;:true,&quot;autoplaySpeed&quot;:5000,&quot;slidesToShow&quot;:1,&quot;slidesToScroll&quot;:1,&quot;easing&quot;:&quot;easeOutExpo&quot;,&quot;arrows&quot;:true,&quot;prevArrow&quot;:&quot;.eluidb904304d .ls__arrow-left&quot;,&quot;nextArrow&quot;:&quot;.eluidb904304d .ls__arrow-right&quot;,&quot;dots&quot;:true,&quot;appendDots&quot;:&quot;.eluidb904304d .ls__nav&quot;,&quot;activeIndex&quot;:&quot;.eluidb904304d&quot;}">
 
-                                            <div aria-live="polite" class="slick-list draggable">
-                                                <div class="slick-track"
-                                                     style="opacity: 1; width: 524px; transform: translate3d(0px, 0px, 0px);"
-                                                     role="listbox">
-                                                    <div class="ls__slider-item slick-slide slick-current slick-active slick-item--activated"
-                                                         data-slick-index="0" aria-hidden="false" style="width: 524px;"
-                                                         tabindex="-1" role="option" aria-describedby="slick-slide50">
-                                                        <img class="ls-slider-item__img cover-fit-img"
-                                                             src="http://www.noortec.com/wp-content/uploads/2017/04/Rapida_75_Pro_Seitenansicht-2-800x600.jpg"
-                                                             width="800" height="600" alt=""
-                                                             title="Rapida_75_Pro_Seitenansicht"/>
+                                                <div aria-live="polite" class="slick-list draggable">
+                                                    <div class="slick-track"
+                                                         style="opacity: 1; width: 524px; transform: translate3d(0px, 0px, 0px);"
+                                                         role="listbox">
+                                                        <div class="ls__slider-item slick-slide slick-current slick-active slick-item--activated"
+                                                             data-slick-index="0" aria-hidden="false"
+                                                             style="width: 524px;"
+                                                             tabindex="-1" role="option"
+                                                             aria-describedby="slick-slide50">
+                                                            <img class="ls-slider-item__img cover-fit-img"
+                                                                 src="http://www.noortec.com/wp-content/uploads/2017/04/Rapida_75_Pro_Seitenansicht-2-800x600.jpg"
+                                                                 width="800" height="600" alt=""
+                                                                 title="Rapida_75_Pro_Seitenansicht"/>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
+                                        </div><!-- /.zn_laptop_slider_wrapper -->
+                                    </div>
+                                    <!-- end /.ls screen -->
+
+                                    <div class="ls__nav"></div>
+
+                                    <div class="ls__arrows">
+                                        <span class="ls__arrow ls__arrow-left slick-arrow slick-hidden"
+                                              aria-disabled="true"
+                                              tabindex="-1"></span>
+                                        <span class="ls__arrow ls__arrow-right slick-arrow slick-hidden"
+                                              aria-disabled="true" tabindex="-1"></span>
+                                    </div>
+
+                                </div>
+                                <!-- laptop mask -->
+
+
+                                <div class="ls__left-desc" id="ls__left-desc-eluidb904304d">
+
+
+                                    <div class="ls_slide_item-details">
+
+                                        <div class="ls__sl-main-title">Rapida 75 Pro</div>
+
+                                        <div class="ls__sl-main-desc">The next generation in half format
+                                            With the Rapida 75 PRO, KBA is proud to present the latest generation of
+                                            presses
+                                            for half-format sheetfed offset. The new press is based on the proven
+                                            mechanical
+                                            platform of the predecessor series. The control concept is identical to that
+                                            of
+                                            all other Rapida models. Accordingly, the Rapida 75 PRO lends a further
+                                            boost to
+                                            operator convenience and offers a number of additional functions.
                                         </div>
-                                    </div><!-- /.zn_laptop_slider_wrapper -->
-                                </div>
-                                <!-- end /.ls screen -->
 
-                                <div class="ls__nav"></div>
-
-                                <div class="ls__arrows">
-                                    <span class="ls__arrow ls__arrow-left slick-arrow slick-hidden" aria-disabled="true"
-                                          tabindex="-1"></span>
-                                    <span class="ls__arrow ls__arrow-right slick-arrow slick-hidden"
-                                          aria-disabled="true" tabindex="-1"></span>
-                                </div>
-
-                            </div>
-                            <!-- laptop mask -->
-
-
-                            <div class="ls__left-desc" id="ls__left-desc-eluidb904304d">
-
-
-                                <div class="ls_slide_item-details">
-
-                                    <div class="ls__sl-main-title">Rapida 75 Pro</div>
-
-                                    <div class="ls__sl-main-desc">The next generation in half format
-                                        With the Rapida 75 PRO, KBA is proud to present the latest generation of presses
-                                        for half-format sheetfed offset. The new press is based on the proven mechanical
-                                        platform of the predecessor series. The control concept is identical to that of
-                                        all other Rapida models. Accordingly, the Rapida 75 PRO lends a further boost to
-                                        operator convenience and offers a number of additional functions.
+                                        <div class="ls__actionarea clearfix">
+                                            <a href="/kba/sheetfed-solutions/sheetfed-offset/kba-rapida-75-pro/"
+                                               class="btn btn-fullcolor" title="more" target="_blank" itemprop="url">
+                                                more
+                                            </a>
+                                        </div>
                                     </div>
 
-                                    <div class="ls__actionarea clearfix">
-                                        <a href="/kba/sheetfed-solutions/sheetfed-offset/kba-rapida-75-pro/"
-                                           class="btn btn-fullcolor" title="more" target="_blank" itemprop="url">more
-                                        </a>
-                                    </div>
-                                </div>
 
+                                </div><!-- /.ls__left-desc -->
 
-                            </div><!-- /.ls__left-desc -->
+                                <div class="clearfix"></div>
 
-                            <div class="clearfix"></div>
+                            </div><!-- /.laptop-slider__inner -->
+                        </div>
 
-                        </div><!-- /.laptop-slider__inner -->
                     </div>
-
-                </div>
                 </section>
+
             </xpath>
+
+
         </template>
 
 
