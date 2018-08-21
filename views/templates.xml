@@ -792,13 +792,113 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                     </div>
 
                                 </div>
+                                <div class="item ">
+
+                                    <img class="slide-item-bg cover-fit-img vertical-pos--center"
+                                         src="http://www.noortec.com/wp-content/uploads/2017/09/Rapida_106_Seitenansicht-2.jpg"
+                                         alt="" title="Rapida_106_Seitenansicht-2"/>
+                                    <div class="container  kl-iosslide-caption kl-ioscaption--style5 fromleft klios-aligncenter kl-caption-posv-top">
+                                        <div class="znParallax-object"
+                                             data-zn-parallax-obj="{&quot;scene&quot;:{&quot;triggerHook&quot;:&quot;onLeave&quot;,&quot;triggerElement&quot;:&quot;.eluida87a01a4&quot;,&quot;duration&quot;:&quot;height&quot;},&quot;tween&quot;:{&quot;speed&quot;:&quot;0.15&quot;,&quot;css&quot;:{&quot;opacity&quot;:{&quot;from&quot;:&quot;1&quot;,&quot;to&quot;:&quot;0&quot;}}}}"
+                                             style="opacity: 0.861492;">
+                                            <h4 class="title_small_top">KBA</h4>
+                                            <h2 class="main_title has_titlebig kl-ios-has-sqbox has_klios-line"
+                                                itemprop="headline">
+                                                <span class="kl-ios-sqbox"></span>
+                                                <span>
+                                                    <strong>Rapida 106</strong>
+                                                </span>
+                                            </h2>
+                                            <div class="klios-separator-line has_titlebig ">
+                                                <div class="klios--inner">
+                                                    <span></span>
+                                                </div>
+                                            </div>
+                                            <h3 class="title_big" itemprop="alternativeHeadline">
+                                                <strong>
+                                                    <strong></strong>
+                                                </strong>
+                                            </h3>
+                                            <div class="more">
+                                                <strong>
+                                                    <strong>
+                                                        <a href="http://www.noortec.com/kba/sheetfed-solutions/sheetfed-offset/kba-rapida-106/"
+                                                           class="btn btn-lined btn-lg" title="learn more"
+                                                           target="_self" itemprop="url" tabindex="-1">learn more
+                                                        </a>
+                                                    </strong>
+                                                </strong>
+                                            </div>
+                                            <h4 class="title_small" itemprop="alternativeHeadline">
+                                                <strong>
+                                                    <strong>www.noortec.com</strong>
+                                                </strong>
+                                            </h4>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="item ">
+
+                                    <img class="slide-item-bg cover-fit-img vertical-pos--center"
+                                         src="http://www.noortec.com/wp-content/uploads/2017/09/Banner_Eberle_Druck_1920x670.jpg"
+                                         alt="" title="Banner_Eberle_Druck_1920x670"/>
+                                    <div class="container  kl-iosslide-caption kl-ioscaption--style4 fromleft klios-alignright kl-caption-posv-middle">
+                                        <div class="znParallax-object"
+                                             data-zn-parallax-obj="{&quot;scene&quot;:{&quot;triggerHook&quot;:&quot;onLeave&quot;,&quot;triggerElement&quot;:&quot;.eluida87a01a4&quot;,&quot;duration&quot;:&quot;height&quot;},&quot;tween&quot;:{&quot;speed&quot;:&quot;0.15&quot;,&quot;css&quot;:{&quot;opacity&quot;:{&quot;from&quot;:&quot;1&quot;,&quot;to&quot;:&quot;0&quot;}}}}"
+                                             style="opacity: 0.861492;">
+                                            <h2 class="main_title has_titlebig  " itemprop="headline">
+                                                <span>
+                                                    <strong>We are especially fascinated by the operating concept
+                                                    </strong>
+                                                </span>
+                                            </h2>
+                                            <h3 class="title_big" itemprop="alternativeHeadline">
+                                                <strong>Marco Resch, Plant Manager Eberle Druck GmbH.
+
+                                                </strong>
+                                            </h3>
+                                            <h4 class="title_small" itemprop="alternativeHeadline">
+                                                <strong>
+                                                    <strong>www.noortec.com</strong>
+                                                </strong>
+                                            </h4>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="item ">
+
+                                        <img class="slide-item-bg cover-fit-img vertical-pos--center"
+                                             src="http://www.noortec.com/wp-content/uploads/2017/09/KBA_AZ_ErgoTronic-AutoRun_Keyvisual_Header_1920x670px_EN.jpg"
+                                             alt="" title="KBA_AZ_ErgoTronic-AutoRun_Keyvisual_Header_1920x670px_EN"/>
+                                        <div class="container  kl-iosslide-caption kl-ioscaption--style3 s3ext fromleft klios-alignleft kl-caption-posv-top">
+                                            <div class="znParallax-object"
+                                                 data-zn-parallax-obj="{&quot;scene&quot;:{&quot;triggerHook&quot;:&quot;onLeave&quot;,&quot;triggerElement&quot;:&quot;.eluida87a01a4&quot;,&quot;duration&quot;:&quot;height&quot;},&quot;tween&quot;:{&quot;speed&quot;:&quot;0.15&quot;,&quot;css&quot;:{&quot;opacity&quot;:{&quot;from&quot;:&quot;1&quot;,&quot;to&quot;:&quot;0&quot;}}}}"
+                                                 style="opacity: 0.861492;">
+                                                <h2 class="main_title has_titlebig  " itemprop="headline">
+                                                    <span>
+                                                        <strong>ErgoTronic AutoRun</strong>
+                                                    </span>
+                                                </h2>
+                                                <h4 class="title_small" itemprop="alternativeHeadline">www.noortec.com
+                                                </h4>
+                                                <h3 class="title_big" itemprop="alternativeHeadline">
+                                                    <strong>Autonomous printing for more productivity.
+
+                                                    </strong>
+                                                </h3>
+                                            </div>
+                                        </div>
+
+                                </div>
                             </div>
 
-                            <div class="carousel-control left hidden znSlickNav-arr znSlickNav-next slick-arrow"
+                            <div class="carousel-control left  znSlickNav-arr znSlickNav-next slick-arrow"
                                  data-target="#myCarouselNoortec" data-slide="prev" style="width: 10%">
                                 <i class="fa fa-chevron-left"></i>
                             </div>
-                            <div class="carousel-control right hidden znSlickNav-arr znSlickNav-next slick-arrow"
+                            <div class="carousel-control right  znSlickNav-arr znSlickNav-next slick-arrow"
                                  data-target="#myCarouselNoortec" data-slide="next" style="width: 10%">
                                 <i class="fa fa-chevron-right"></i>
                             </div>
@@ -1390,7 +1490,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                 <div class="owl-item ">
                                                                     <div class="item">
                                                                         <div class="post latest-posts-crs-post  slick-cloned"
-                                                                             style="width: 380px;" tabindex="-1"
+                                                                              tabindex="-1"
                                                                              role="option"
                                                                              aria-describedby="slick-slide27"
                                                                              data-slick-index="-3"
@@ -1411,12 +1511,13 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                     href="http://www.noortec.com/category/all-news/"
                                                                                     title="View all posts in All News"
                                                                                     tabindex="-1">All
-                                                                                News</a>, <a
-                                                                                    href="http://www.noortec.com/category/all-news/kba/"
-                                                                                    title="View all posts in KBA News"
-                                                                                    tabindex="-1">KBA
-                                                                                News
-                                                                            </a>
+                                                                                News</a>,
+                                                                                <a
+                                                                                        href="http://www.noortec.com/category/all-news/kba/"
+                                                                                        title="View all posts in KBA News"
+                                                                                        tabindex="-1">KBA
+                                                                                    News
+                                                                                </a>
                                                                             </em>
                                                                             <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
                                                                                 itemprop="headline">
@@ -1434,7 +1535,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                 <div class="owl-item ">
                                                                     <div class="item">
                                                                         <div class="post latest-posts-crs-post  slick-active"
-                                                                             style="width: 380px;" tabindex="-1"
+                                                                              tabindex="-1"
                                                                              role="option"
                                                                              aria-describedby="slick-slide22"
                                                                              data-slick-index="2"
@@ -1456,12 +1557,13 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                     href="http://www.noortec.com/category/all-news/"
                                                                                     title="View all posts in All News"
                                                                                     tabindex="0">All
-                                                                                News</a>, <a
-                                                                                    href="http://www.noortec.com/category/all-news/kba/"
-                                                                                    title="View all posts in KBA News"
-                                                                                    tabindex="0">KBA
-                                                                                News
-                                                                            </a>
+                                                                                News</a>,
+                                                                                <a
+                                                                                        href="http://www.noortec.com/category/all-news/kba/"
+                                                                                        title="View all posts in KBA News"
+                                                                                        tabindex="0">KBA
+                                                                                    News
+                                                                                </a>
                                                                             </em>
                                                                             <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
                                                                                 itemprop="headline">
@@ -1481,7 +1583,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                 <div class="owl-item ">
                                                                     <div class="item">
                                                                         <div class="post latest-posts-crs-post  slick-active"
-                                                                             style="width: 380px;" tabindex="-1"
+                                                                              tabindex="-1"
                                                                              role="option"
                                                                              aria-describedby="slick-slide23"
                                                                              data-slick-index="3"
@@ -1503,12 +1605,13 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                     href="http://www.noortec.com/category/all-news/"
                                                                                     title="View all posts in All News"
                                                                                     tabindex="0">All
-                                                                                News</a>, <a
-                                                                                    href="http://www.noortec.com/category/all-news/kba/"
-                                                                                    title="View all posts in KBA News"
-                                                                                    tabindex="0">KBA
-                                                                                News
-                                                                            </a>
+                                                                                News</a>,
+                                                                                <a
+                                                                                        href="http://www.noortec.com/category/all-news/kba/"
+                                                                                        title="View all posts in KBA News"
+                                                                                        tabindex="0">KBA
+                                                                                    News
+                                                                                </a>
                                                                             </em>
                                                                             <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
                                                                                 itemprop="headline">
@@ -1526,7 +1629,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                 <div class="owl-item ">
                                                                     <div class="item">
                                                                         <div class="post latest-posts-crs-post  slick-current slick-active slick-item--activated"
-                                                                             style="width: 380px;" tabindex="-1"
+                                                                              tabindex="-1"
                                                                              role="option"
                                                                              aria-describedby="slick-slide24"
                                                                              data-slick-index="4"
@@ -1547,12 +1650,13 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                     href="http://www.noortec.com/category/all-news/"
                                                                                     title="View all posts in All News"
                                                                                     tabindex="0">All
-                                                                                News</a>, <a
-                                                                                    href="http://www.noortec.com/category/all-news/kba/"
-                                                                                    title="View all posts in KBA News"
-                                                                                    tabindex="0">KBA
-                                                                                News
-                                                                            </a>
+                                                                                News</a>,
+                                                                                <a
+                                                                                        href="http://www.noortec.com/category/all-news/kba/"
+                                                                                        title="View all posts in KBA News"
+                                                                                        tabindex="0">KBA
+                                                                                    News
+                                                                                </a>
                                                                             </em>
                                                                             <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
                                                                                 itemprop="headline">
@@ -1570,7 +1674,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                 <div class="owl-item ">
                                                                     <div class="item">
                                                                         <div class="post latest-posts-crs-post  slick-active"
-                                                                             style="width: 380px;" tabindex="-1"
+                                                                              tabindex="-1"
                                                                              role="option"
                                                                              aria-describedby="slick-slide25"
                                                                              data-slick-index="5"
@@ -1592,12 +1696,13 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                     href="http://www.noortec.com/category/all-news/"
                                                                                     title="View all posts in All News"
                                                                                     tabindex="0">All
-                                                                                News</a>, <a
-                                                                                    href="http://www.noortec.com/category/all-news/kba/"
-                                                                                    title="View all posts in KBA News"
-                                                                                    tabindex="0">KBA
-                                                                                News
-                                                                            </a>
+                                                                                News</a>,
+                                                                                <a
+                                                                                        href="http://www.noortec.com/category/all-news/kba/"
+                                                                                        title="View all posts in KBA News"
+                                                                                        tabindex="0">KBA
+                                                                                    News
+                                                                                </a>
                                                                             </em>
                                                                             <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
                                                                                 itemprop="headline">
@@ -1615,7 +1720,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                 <div class="owl-item ">
                                                                     <div class="item">
                                                                         <div class="post latest-posts-crs-post  slick-active"
-                                                                             style="width: 380px;" tabindex="-1"
+                                                                              tabindex="-1"
                                                                              role="option"
                                                                              aria-describedby="slick-slide26"
                                                                              data-slick-index="6"
@@ -1637,12 +1742,13 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                     href="http://www.noortec.com/category/all-news/"
                                                                                     title="View all posts in All News"
                                                                                     tabindex="0">All
-                                                                                News</a>, <a
-                                                                                    href="http://www.noortec.com/category/all-news/kba/"
-                                                                                    title="View all posts in KBA News"
-                                                                                    tabindex="0">KBA
-                                                                                News
-                                                                            </a>
+                                                                                News</a>,
+                                                                                <a
+                                                                                        href="http://www.noortec.com/category/all-news/kba/"
+                                                                                        title="View all posts in KBA News"
+                                                                                        tabindex="0">KBA
+                                                                                    News
+                                                                                </a>
                                                                             </em>
                                                                             <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
                                                                                 itemprop="headline">
@@ -1660,7 +1766,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                 <div class="owl-item">
                                                                     <div class="item">
                                                                         <div class="post latest-posts-crs-post  slick-current slick-active slick-item--activated"
-                                                                             style="width: 380px;" tabindex="-1"
+                                                                              tabindex="-1"
                                                                              role="option"
                                                                              aria-describedby="slick-slide27"
                                                                              data-slick-index="7"
@@ -1681,12 +1787,13 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                     href="http://www.noortec.com/category/all-news/"
                                                                                     title="View all posts in All News"
                                                                                     tabindex="0">All
-                                                                                News</a>, <a
-                                                                                    href="http://www.noortec.com/category/all-news/kba/"
-                                                                                    title="View all posts in KBA News"
-                                                                                    tabindex="0">KBA
-                                                                                News
-                                                                            </a>
+                                                                                News</a>,
+                                                                                <a
+                                                                                        href="http://www.noortec.com/category/all-news/kba/"
+                                                                                        title="View all posts in KBA News"
+                                                                                        tabindex="0">KBA
+                                                                                    News
+                                                                                </a>
                                                                             </em>
                                                                             <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
                                                                                 itemprop="headline">
@@ -1704,7 +1811,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                 <div class="owl-item">
                                                                     <div class="item">
                                                                         <div class="post latest-posts-crs-post  slick-active"
-                                                                             style="width: 380px;" tabindex="-1"
+                                                                              tabindex="-1"
                                                                              role="option"
                                                                              aria-describedby="slick-slide28"
                                                                              data-slick-index="8"
@@ -1725,12 +1832,13 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                     href="http://www.noortec.com/category/all-news/"
                                                                                     title="View all posts in All News"
                                                                                     tabindex="0">All
-                                                                                News</a>, <a
-                                                                                    href="http://www.noortec.com/category/all-news/kba/"
-                                                                                    title="View all posts in KBA News"
-                                                                                    tabindex="0">KBA
-                                                                                News
-                                                                            </a>
+                                                                                News</a>,
+                                                                                <a
+                                                                                        href="http://www.noortec.com/category/all-news/kba/"
+                                                                                        title="View all posts in KBA News"
+                                                                                        tabindex="0">KBA
+                                                                                    News
+                                                                                </a>
                                                                             </em>
                                                                             <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
                                                                                 itemprop="headline">
@@ -1748,7 +1856,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                 <div class="owl-item">
                                                                     <div class="item">
                                                                         <div class="post latest-posts-crs-post  slick-active"
-                                                                             style="width: 380px;" tabindex="-1"
+                                                                              tabindex="-1"
                                                                              role="option"
                                                                              aria-describedby="slick-slide29"
                                                                              data-slick-index="9"
@@ -1770,12 +1878,13 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                     href="http://www.noortec.com/category/all-news/"
                                                                                     title="View all posts in All News"
                                                                                     tabindex="0">All
-                                                                                News</a>, <a
-                                                                                    href="http://www.noortec.com/category/all-news/kba/"
-                                                                                    title="View all posts in KBA News"
-                                                                                    tabindex="0">KBA
-                                                                                News
-                                                                            </a>
+                                                                                News</a>,
+                                                                                <a
+                                                                                        href="http://www.noortec.com/category/all-news/kba/"
+                                                                                        title="View all posts in KBA News"
+                                                                                        tabindex="0">KBA
+                                                                                    News
+                                                                                </a>
                                                                             </em>
                                                                             <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
                                                                                 itemprop="headline">
@@ -1793,7 +1902,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                 <div class="owl-item">
                                                                     <div class="item">
                                                                         <div class="post latest-posts-crs-post  slick-cloned"
-                                                                             style="width: 380px;" tabindex="-1"
+                                                                              tabindex="-1"
                                                                              role="option"
                                                                              aria-describedby="slick-slide20"
                                                                              data-slick-index="10"
@@ -1815,12 +1924,13 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                     href="http://www.noortec.com/category/all-news/"
                                                                                     title="View all posts in All News"
                                                                                     tabindex="-1">All
-                                                                                News</a>, <a
-                                                                                    href="http://www.noortec.com/category/all-news/kba/"
-                                                                                    title="View all posts in KBA News"
-                                                                                    tabindex="-1">KBA
-                                                                                News
-                                                                            </a>
+                                                                                News</a>,
+                                                                                <a
+                                                                                        href="http://www.noortec.com/category/all-news/kba/"
+                                                                                        title="View all posts in KBA News"
+                                                                                        tabindex="-1">KBA
+                                                                                    News
+                                                                                </a>
                                                                             </em>
                                                                             <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
                                                                                 itemprop="headline">
@@ -1838,7 +1948,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                 <div class="owl-item">
                                                                     <div class="item">
                                                                         <div class="post latest-posts-crs-post slick-item--activated  slick-cloned"
-                                                                             style="width: 380px;" tabindex="-1"
+                                                                              tabindex="-1"
                                                                              role="option"
                                                                              aria-describedby="slick-slide21"
                                                                              data-slick-index="11"
@@ -1860,12 +1970,13 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                                     href="http://www.noortec.com/category/all-news/"
                                                                                     title="View all posts in All News"
                                                                                     tabindex="-1">All
-                                                                                News</a>, <a
-                                                                                    href="http://www.noortec.com/category/all-news/kba/"
-                                                                                    title="View all posts in KBA News"
-                                                                                    tabindex="-1">KBA
-                                                                                News
-                                                                            </a>
+                                                                                News</a>,
+                                                                                <a
+                                                                                        href="http://www.noortec.com/category/all-news/kba/"
+                                                                                        title="View all posts in KBA News"
+                                                                                        tabindex="-1">KBA
+                                                                                    News
+                                                                                </a>
                                                                             </em>
                                                                             <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
                                                                                 itemprop="headline">
@@ -1889,12 +2000,29 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                             $(document).ready(function () {
                                                             var owl = $('.owl-carousel');
                                                             owl.owlCarousel({
-                                                            items: 3,
+                                                            item: 3,
                                                             loop: true,
                                                             margin: 10,
                                                             autoplay: true,
                                                             autoplayTimeout: 5000,
-                                                            autoplayHoverPause: true
+                                                            autoplayHoverPause: true,
+                                                            responsiveClass: true,
+                                                            responsive: {
+                                                            0: {
+                                                            items: 1,
+                                                            nav: true
+                                                            },
+                                                            600: {
+                                                            items: 2,
+                                                            nav: false
+                                                            },
+                                                            1000: {
+                                                            items: 3,
+                                                            nav: true,
+                                                            loop: false,
+                                                            margin: 20
+                                                            }
+                                                            }
                                                             });
 
                                                             })
@@ -1927,130 +2055,423 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                                 <div class="owl-item cloned"
                                                                      style="width: 235px; margin-right: 10px;">
                                                                     <div class="item">
-                                                                        <div class="post latest-posts-crs-post  slick-current slick-active slick-item--activated" data-slick-index="0" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide50" style="width: 380px;">
-                                                                            <a href="http://www.noortec.com/kodak-announces-plate-price-increase/" class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov" tabindex="0">
-                                                                                <img class="latest-posts-crs-img" src="http://www.noortec.com/wp-content/uploads/2017/09/kodak-420x240.jpg" width="420" height="240" alt="" title="kodak"/>													<span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">Read more +</span>
+                                                                        <div class="post latest-posts-crs-post  slick-current slick-active slick-item--activated"
+                                                                             data-slick-index="0" aria-hidden="false"
+                                                                             tabindex="-1" role="option"
+                                                                             aria-describedby="slick-slide50"
+                                                                             >
+                                                                            <a href="http://www.noortec.com/kodak-announces-plate-price-increase/"
+                                                                               class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
+                                                                               tabindex="0">
+                                                                                <img class="latest-posts-crs-img"
+                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/09/kodak-420x240.jpg"
+                                                                                     width="420" height="240" alt=""
+                                                                                     title="kodak"/>
+                                                                                <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
+                                                                                    Read more +
+                                                                                </span>
                                                                             </a>
                                                                             <em class="latest-posts-crs-details">
-                                                                                18/09/2017													By													admin													in													<a href="http://www.noortec.com/category/all-news/" title="View all posts in All News" tabindex="0">All News</a>, <a href="http://www.noortec.com/category/all-news/kodak/" title="View all posts in KODAK News" tabindex="0">KODAK News</a>												</em>
-                                                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title" itemprop="headline"><a class="latest-posts-crs-title-link" href="http://www.noortec.com/kodak-announces-plate-price-increase/" tabindex="0">Kodak Announces Plate Price Increase</a></h3>
+                                                                                18/09/2017 By admin in													<a
+                                                                                    href="http://www.noortec.com/category/all-news/"
+                                                                                    title="View all posts in All News"
+                                                                                    tabindex="0">All News</a>,
+                                                                                <a
+                                                                                        href="http://www.noortec.com/category/all-news/kodak/"
+                                                                                        title="View all posts in KODAK News"
+                                                                                        tabindex="0">KODAK News
+                                                                                </a>
+                                                                            </em>
+                                                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
+                                                                                itemprop="headline">
+                                                                                <a class="latest-posts-crs-title-link"
+                                                                                   href="http://www.noortec.com/kodak-announces-plate-price-increase/"
+                                                                                   tabindex="0">Kodak Announces Plate
+                                                                                    Price Increase
+                                                                                </a>
+                                                                            </h3>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                                 <div class="owl-item "
                                                                      style="width: 235px; margin-right: 10px;">
                                                                     <div class="item">
-                                                                        <div class="post latest-posts-crs-post  slick-active" data-slick-index="1" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide51" style="width: 380px;">
-                                                                            <a href="http://www.noortec.com/kodak-continues-investment-collaboration-packaging-labelexpo-europe-2017/" class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov" tabindex="0">
-                                                                                <img class="latest-posts-crs-img" src="http://www.noortec.com/wp-content/uploads/2017/09/HUB-LOGO-420x240.jpg" width="420" height="240" alt="" title="HUB-LOGO"/>													<span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">Read more +</span>
+                                                                        <div class="post latest-posts-crs-post  slick-active"
+                                                                             data-slick-index="1" aria-hidden="false"
+                                                                             tabindex="-1" role="option"
+                                                                             aria-describedby="slick-slide51"
+                                                                             >
+                                                                            <a href="http://www.noortec.com/kodak-continues-investment-collaboration-packaging-labelexpo-europe-2017/"
+                                                                               class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
+                                                                               tabindex="0">
+                                                                                <img class="latest-posts-crs-img"
+                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/09/HUB-LOGO-420x240.jpg"
+                                                                                     width="420" height="240" alt=""
+                                                                                     title="HUB-LOGO"/>
+                                                                                <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
+                                                                                    Read more +
+                                                                                </span>
                                                                             </a>
                                                                             <em class="latest-posts-crs-details">
-                                                                                27/07/2017													By													admin													in													<a href="http://www.noortec.com/category/all-news/" title="View all posts in All News" tabindex="0">All News</a>, <a href="http://www.noortec.com/category/all-news/kodak/" title="View all posts in KODAK News" tabindex="0">KODAK News</a>												</em>
-                                                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title" itemprop="headline"><a class="latest-posts-crs-title-link" href="http://www.noortec.com/kodak-continues-investment-collaboration-packaging-labelexpo-europe-2017/" tabindex="0">Kodak Continues Investment and Collaboration in Packaging at Labelexpo Europe 2017</a></h3>
+                                                                                27/07/2017 By admin in													<a
+                                                                                    href="http://www.noortec.com/category/all-news/"
+                                                                                    title="View all posts in All News"
+                                                                                    tabindex="0">All News</a>,
+                                                                                <a
+                                                                                        href="http://www.noortec.com/category/all-news/kodak/"
+                                                                                        title="View all posts in KODAK News"
+                                                                                        tabindex="0">KODAK News
+                                                                                </a>
+                                                                            </em>
+                                                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
+                                                                                itemprop="headline">
+                                                                                <a class="latest-posts-crs-title-link"
+                                                                                   href="http://www.noortec.com/kodak-continues-investment-collaboration-packaging-labelexpo-europe-2017/"
+                                                                                   tabindex="0">Kodak Continues
+                                                                                    Investment and Collaboration in
+                                                                                    Packaging at Labelexpo Europe 2017
+                                                                                </a>
+                                                                            </h3>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                                 <div class="owl-item "
                                                                      style="width: 235px; margin-right: 10px;">
                                                                     <div class="item">
-                                                                        <div class="post latest-posts-crs-post  slick-active" data-slick-index="2" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide52" style="width: 380px;">
-                                                                            <a href="http://www.noortec.com/expanded-digital-partnerships-kodak-prinergy-workflow-8-1-provide-ultimate-flexibility/" class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov" tabindex="0">
-                                                                                <img class="latest-posts-crs-img" src="http://www.noortec.com/wp-content/uploads/2017/09/Prinergy8-1-420x240.jpg" width="420" height="240" alt="" title="Prinergy8-1"/>													<span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">Read more +</span>
+                                                                        <div class="post latest-posts-crs-post  slick-active"
+                                                                             data-slick-index="2" aria-hidden="false"
+                                                                             tabindex="-1" role="option"
+                                                                             aria-describedby="slick-slide52"
+                                                                             >
+                                                                            <a href="http://www.noortec.com/expanded-digital-partnerships-kodak-prinergy-workflow-8-1-provide-ultimate-flexibility/"
+                                                                               class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
+                                                                               tabindex="0">
+                                                                                <img class="latest-posts-crs-img"
+                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/09/Prinergy8-1-420x240.jpg"
+                                                                                     width="420" height="240" alt=""
+                                                                                     title="Prinergy8-1"/>
+                                                                                <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
+                                                                                    Read more +
+                                                                                </span>
                                                                             </a>
                                                                             <em class="latest-posts-crs-details">
-                                                                                18/07/2017													By													admin													in													<a href="http://www.noortec.com/category/all-news/" title="View all posts in All News" tabindex="0">All News</a>, <a href="http://www.noortec.com/category/all-news/kodak/" title="View all posts in KODAK News" tabindex="0">KODAK News</a>												</em>
-                                                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title" itemprop="headline"><a class="latest-posts-crs-title-link" href="http://www.noortec.com/expanded-digital-partnerships-kodak-prinergy-workflow-8-1-provide-ultimate-flexibility/" tabindex="0">Expanded Digital Partnerships with KODAK PRINERGY Workflow 8.1 Provide Ultimate Flexibility</a></h3>
+                                                                                18/07/2017 By admin in													<a
+                                                                                    href="http://www.noortec.com/category/all-news/"
+                                                                                    title="View all posts in All News"
+                                                                                    tabindex="0">All News</a>,
+                                                                                <a
+                                                                                        href="http://www.noortec.com/category/all-news/kodak/"
+                                                                                        title="View all posts in KODAK News"
+                                                                                        tabindex="0">KODAK News
+                                                                                </a>
+                                                                            </em>
+                                                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
+                                                                                itemprop="headline">
+                                                                                <a class="latest-posts-crs-title-link"
+                                                                                   href="http://www.noortec.com/expanded-digital-partnerships-kodak-prinergy-workflow-8-1-provide-ultimate-flexibility/"
+                                                                                   tabindex="0">Expanded Digital
+                                                                                    Partnerships with KODAK PRINERGY
+                                                                                    Workflow 8.1 Provide Ultimate
+                                                                                    Flexibility
+                                                                                </a>
+                                                                            </h3>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                                 <div class="owl-item "
                                                                      style="width: 235px; margin-right: 10px;">
                                                                     <div class="item">
-                                                                        <div class="post latest-posts-crs-post  slick-current slick-active slick-item--activated" data-slick-index="3" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide53" style="width: 380px;">
-                                                                            <a href="http://www.noortec.com/kodaks-print-good-program-bolsters-rochester-literacy-initiatives/" class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov" tabindex="0">
-                                                                                <img class="latest-posts-crs-img" src="http://www.noortec.com/wp-content/uploads/2017/09/printforgood-02a-420x240.jpg" width="420" height="240" alt="" title="printforgood-02a"/>													<span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">Read more +</span>
+                                                                        <div class="post latest-posts-crs-post  slick-current slick-active slick-item--activated"
+                                                                             data-slick-index="3" aria-hidden="false"
+                                                                             tabindex="-1" role="option"
+                                                                             aria-describedby="slick-slide53"
+                                                                             >
+                                                                            <a href="http://www.noortec.com/kodaks-print-good-program-bolsters-rochester-literacy-initiatives/"
+                                                                               class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
+                                                                               tabindex="0">
+                                                                                <img class="latest-posts-crs-img"
+                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/09/printforgood-02a-420x240.jpg"
+                                                                                     width="420" height="240" alt=""
+                                                                                     title="printforgood-02a"/>
+                                                                                <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
+                                                                                    Read more +
+                                                                                </span>
                                                                             </a>
                                                                             <em class="latest-posts-crs-details">
-                                                                                12/07/2017													By													admin													in													<a href="http://www.noortec.com/category/all-news/" title="View all posts in All News" tabindex="0">All News</a>, <a href="http://www.noortec.com/category/all-news/kodak/" title="View all posts in KODAK News" tabindex="0">KODAK News</a>												</em>
-                                                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title" itemprop="headline"><a class="latest-posts-crs-title-link" href="http://www.noortec.com/kodaks-print-good-program-bolsters-rochester-literacy-initiatives/" tabindex="0">Kodak’s “Print for Good” Program Bolsters Rochester Literacy Initiatives</a></h3>
+                                                                                12/07/2017 By admin in													<a
+                                                                                    href="http://www.noortec.com/category/all-news/"
+                                                                                    title="View all posts in All News"
+                                                                                    tabindex="0">All News</a>,
+                                                                                <a
+                                                                                        href="http://www.noortec.com/category/all-news/kodak/"
+                                                                                        title="View all posts in KODAK News"
+                                                                                        tabindex="0">KODAK News
+                                                                                </a>
+                                                                            </em>
+                                                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
+                                                                                itemprop="headline">
+                                                                                <a class="latest-posts-crs-title-link"
+                                                                                   href="http://www.noortec.com/kodaks-print-good-program-bolsters-rochester-literacy-initiatives/"
+                                                                                   tabindex="0">Kodak’s “Print for Good”
+                                                                                    Program Bolsters Rochester Literacy
+                                                                                    Initiatives
+                                                                                </a>
+                                                                            </h3>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                                 <div class="owl-item "
                                                                      style="width: 235px; margin-right: 10px;">
                                                                     <div class="item">
-                                                                        <div class="post latest-posts-crs-post  slick-active" data-slick-index="4" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide54" style="width: 380px;">
-                                                                            <a href="http://www.noortec.com/kodak-installs-worlds-first-prosper-6000s-press-folding-cartons-zumbiel-digital/" class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov" tabindex="0">
-                                                                                <img class="latest-posts-crs-img" src="http://www.noortec.com/wp-content/uploads/2017/07/Prosper6000S_Hybrid_25Oct2016_hi-420x240.png" width="420" height="240" alt="" title="Prosper6000S_Hybrid_25Oct2016_hi"/>													<span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">Read more +</span>
+                                                                        <div class="post latest-posts-crs-post  slick-active"
+                                                                             data-slick-index="4" aria-hidden="false"
+                                                                             tabindex="-1" role="option"
+                                                                             aria-describedby="slick-slide54"
+                                                                             >
+                                                                            <a href="http://www.noortec.com/kodak-installs-worlds-first-prosper-6000s-press-folding-cartons-zumbiel-digital/"
+                                                                               class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
+                                                                               tabindex="0">
+                                                                                <img class="latest-posts-crs-img"
+                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/07/Prosper6000S_Hybrid_25Oct2016_hi-420x240.png"
+                                                                                     width="420" height="240" alt=""
+                                                                                     title="Prosper6000S_Hybrid_25Oct2016_hi"/>
+                                                                                <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
+                                                                                    Read more +
+                                                                                </span>
                                                                             </a>
                                                                             <em class="latest-posts-crs-details">
-                                                                                11/05/2017													By													admin													in													<a href="http://www.noortec.com/category/all-news/" title="View all posts in All News" tabindex="0">All News</a>, <a href="http://www.noortec.com/category/all-news/kodak/" title="View all posts in KODAK News" tabindex="0">KODAK News</a>												</em>
-                                                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title" itemprop="headline"><a class="latest-posts-crs-title-link" href="http://www.noortec.com/kodak-installs-worlds-first-prosper-6000s-press-folding-cartons-zumbiel-digital/" tabindex="0">Kodak installs world’s first PROSPER 6000S press for folding cartons at Zumbiel Digital</a></h3>
+                                                                                11/05/2017 By admin in													<a
+                                                                                    href="http://www.noortec.com/category/all-news/"
+                                                                                    title="View all posts in All News"
+                                                                                    tabindex="0">All News</a>,
+                                                                                <a
+                                                                                        href="http://www.noortec.com/category/all-news/kodak/"
+                                                                                        title="View all posts in KODAK News"
+                                                                                        tabindex="0">KODAK News
+                                                                                </a>
+                                                                            </em>
+                                                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
+                                                                                itemprop="headline">
+                                                                                <a class="latest-posts-crs-title-link"
+                                                                                   href="http://www.noortec.com/kodak-installs-worlds-first-prosper-6000s-press-folding-cartons-zumbiel-digital/"
+                                                                                   tabindex="0">Kodak installs world’s
+                                                                                    first PROSPER 6000S press for
+                                                                                    folding cartons at Zumbiel Digital
+                                                                                </a>
+                                                                            </h3>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                                 <div class="owl-item "
                                                                      style="width: 235px; margin-right: 10px;">
                                                                     <div class="item">
-                                                                        <div class="post latest-posts-crs-post  slick-active" data-slick-index="5" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide55" style="width: 380px;">
-                                                                            <a href="http://www.noortec.com/china-print-2017-kodak-offers-advanced-flexo-technology-superior-alternative-gravure-printing-packaging/" class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov" tabindex="0">
-                                                                                <img class="latest-posts-crs-img" src="http://www.noortec.com/wp-content/uploads/2017/07/ChinaPrintFlexo-420x240.jpg" width="420" height="240" alt="" title="ChinaPrintFlexo"/>													<span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">Read more +</span>
+                                                                        <div class="post latest-posts-crs-post  slick-active"
+                                                                             data-slick-index="5" aria-hidden="false"
+                                                                             tabindex="-1" role="option"
+                                                                             aria-describedby="slick-slide55"
+                                                                             >
+                                                                            <a href="http://www.noortec.com/china-print-2017-kodak-offers-advanced-flexo-technology-superior-alternative-gravure-printing-packaging/"
+                                                                               class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
+                                                                               tabindex="0">
+                                                                                <img class="latest-posts-crs-img"
+                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/07/ChinaPrintFlexo-420x240.jpg"
+                                                                                     width="420" height="240" alt=""
+                                                                                     title="ChinaPrintFlexo"/>
+                                                                                <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
+                                                                                    Read more +
+                                                                                </span>
                                                                             </a>
                                                                             <em class="latest-posts-crs-details">
-                                                                                09/05/2017													By													admin													in													<a href="http://www.noortec.com/category/all-news/" title="View all posts in All News" tabindex="0">All News</a>, <a href="http://www.noortec.com/category/all-news/kodak/" title="View all posts in KODAK News" tabindex="0">KODAK News</a>												</em>
-                                                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title" itemprop="headline"><a class="latest-posts-crs-title-link" href="http://www.noortec.com/china-print-2017-kodak-offers-advanced-flexo-technology-superior-alternative-gravure-printing-packaging/" tabindex="0">China Print 2017: Kodak Offers Advanced Flexo Technology as Superior Alternative to Gravure Printing for Packaging</a></h3>
+                                                                                09/05/2017 By admin in													<a
+                                                                                    href="http://www.noortec.com/category/all-news/"
+                                                                                    title="View all posts in All News"
+                                                                                    tabindex="0">All News</a>,
+                                                                                <a
+                                                                                        href="http://www.noortec.com/category/all-news/kodak/"
+                                                                                        title="View all posts in KODAK News"
+                                                                                        tabindex="0">KODAK News
+                                                                                </a>
+                                                                            </em>
+                                                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
+                                                                                itemprop="headline">
+                                                                                <a class="latest-posts-crs-title-link"
+                                                                                   href="http://www.noortec.com/china-print-2017-kodak-offers-advanced-flexo-technology-superior-alternative-gravure-printing-packaging/"
+                                                                                   tabindex="0">China Print 2017: Kodak
+                                                                                    Offers Advanced Flexo Technology as
+                                                                                    Superior Alternative to Gravure
+                                                                                    Printing for Packaging
+                                                                                </a>
+                                                                            </h3>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                                 <div class="owl-item"
                                                                      style="width: 235px; margin-right: 10px;">
                                                                     <div class="item">
-                                                                        <div class="post latest-posts-crs-post  slick-current slick-active slick-item--activated" data-slick-index="6" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide56" style="width: 380px;">
-                                                                            <a href="http://www.noortec.com/kodak-demonstrates-latest-pre-press-technology-boost-productivity-growth-printers-china-print-2017/" class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov" tabindex="0">
-                                                                                <img class="latest-posts-crs-img" src="http://www.noortec.com/wp-content/uploads/2017/07/ChinaPrintPSD-420x240.jpg" width="420" height="240" alt="" title="ChinaPrintPSD"/>													<span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">Read more +</span>
+                                                                        <div class="post latest-posts-crs-post  slick-current slick-active slick-item--activated"
+                                                                             data-slick-index="6" aria-hidden="false"
+                                                                             tabindex="-1" role="option"
+                                                                             aria-describedby="slick-slide56"
+                                                                             >
+                                                                            <a href="http://www.noortec.com/kodak-demonstrates-latest-pre-press-technology-boost-productivity-growth-printers-china-print-2017/"
+                                                                               class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
+                                                                               tabindex="0">
+                                                                                <img class="latest-posts-crs-img"
+                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/07/ChinaPrintPSD-420x240.jpg"
+                                                                                     width="420" height="240" alt=""
+                                                                                     title="ChinaPrintPSD"/>
+                                                                                <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
+                                                                                    Read more +
+                                                                                </span>
                                                                             </a>
                                                                             <em class="latest-posts-crs-details">
-                                                                                By													admin													in													<a href="http://www.noortec.com/category/all-news/" title="View all posts in All News" tabindex="0">All News</a>, <a href="http://www.noortec.com/category/all-news/kodak/" title="View all posts in KODAK News" tabindex="0">KODAK News</a>												</em>
-                                                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title" itemprop="headline"><a class="latest-posts-crs-title-link" href="http://www.noortec.com/kodak-demonstrates-latest-pre-press-technology-boost-productivity-growth-printers-china-print-2017/" tabindex="0">Kodak Demonstrates Latest Pre-Press Technology to Boost Productivity and Growth for Printers at China Print 2017</a></h3>
+                                                                                By admin in													<a
+                                                                                    href="http://www.noortec.com/category/all-news/"
+                                                                                    title="View all posts in All News"
+                                                                                    tabindex="0">All News</a>,
+                                                                                <a
+                                                                                        href="http://www.noortec.com/category/all-news/kodak/"
+                                                                                        title="View all posts in KODAK News"
+                                                                                        tabindex="0">KODAK News
+                                                                                </a>
+                                                                            </em>
+                                                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
+                                                                                itemprop="headline">
+                                                                                <a class="latest-posts-crs-title-link"
+                                                                                   href="http://www.noortec.com/kodak-demonstrates-latest-pre-press-technology-boost-productivity-growth-printers-china-print-2017/"
+                                                                                   tabindex="0">Kodak Demonstrates
+                                                                                    Latest Pre-Press Technology to Boost
+                                                                                    Productivity and Growth for Printers
+                                                                                    at China Print 2017
+                                                                                </a>
+                                                                            </h3>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                                 <div class="owl-item"
                                                                      style="width: 235px; margin-right: 10px;">
                                                                     <div class="item">
-                                                                        <div class="post latest-posts-crs-post  slick-active" data-slick-index="7" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide57" style="width: 380px;">
-                                                                            <a href="http://www.noortec.com/kodak-wins-edp-award-2017-kodak-nexpress-zx3900-digital-production-color-press/" class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov" tabindex="0">
-                                                                                <img class="latest-posts-crs-img" src="http://www.noortec.com/wp-content/uploads/2017/07/EDP-Award-420x240.jpg" width="420" height="240" alt="" title="EDP-Award"/>													<span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">Read more +</span>
+                                                                        <div class="post latest-posts-crs-post  slick-active"
+                                                                             data-slick-index="7" aria-hidden="false"
+                                                                             tabindex="-1" role="option"
+                                                                             aria-describedby="slick-slide57"
+                                                                             >
+                                                                            <a href="http://www.noortec.com/kodak-wins-edp-award-2017-kodak-nexpress-zx3900-digital-production-color-press/"
+                                                                               class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
+                                                                               tabindex="0">
+                                                                                <img class="latest-posts-crs-img"
+                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/07/EDP-Award-420x240.jpg"
+                                                                                     width="420" height="240" alt=""
+                                                                                     title="EDP-Award"/>
+                                                                                <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
+                                                                                    Read more +
+                                                                                </span>
                                                                             </a>
                                                                             <em class="latest-posts-crs-details">
-                                                                                By													admin													in													<a href="http://www.noortec.com/category/all-news/" title="View all posts in All News" tabindex="0">All News</a>, <a href="http://www.noortec.com/category/all-news/kodak/" title="View all posts in KODAK News" tabindex="0">KODAK News</a>												</em>
-                                                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title" itemprop="headline"><a class="latest-posts-crs-title-link" href="http://www.noortec.com/kodak-wins-edp-award-2017-kodak-nexpress-zx3900-digital-production-color-press/" tabindex="0">Kodak wins the EDP Award 2017 for the KODAK NEXPRESS ZX3900 Digital Production Color Press</a></h3>
+                                                                                By admin in													<a
+                                                                                    href="http://www.noortec.com/category/all-news/"
+                                                                                    title="View all posts in All News"
+                                                                                    tabindex="0">All News</a>,
+                                                                                <a
+                                                                                        href="http://www.noortec.com/category/all-news/kodak/"
+                                                                                        title="View all posts in KODAK News"
+                                                                                        tabindex="0">KODAK News
+                                                                                </a>
+                                                                            </em>
+                                                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
+                                                                                itemprop="headline">
+                                                                                <a class="latest-posts-crs-title-link"
+                                                                                   href="http://www.noortec.com/kodak-wins-edp-award-2017-kodak-nexpress-zx3900-digital-production-color-press/"
+                                                                                   tabindex="0">Kodak wins the EDP Award
+                                                                                    2017 for the KODAK NEXPRESS ZX3900
+                                                                                    Digital Production Color Press
+                                                                                </a>
+                                                                            </h3>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                                 <div class="owl-item"
                                                                      style="width: 235px; margin-right: 10px;">
                                                                     <div class="item">
-                                                                        <div class="post latest-posts-crs-post  slick-active" data-slick-index="8" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide58" style="width: 380px;">
-                                                                            <a href="http://www.noortec.com/kodaks-inkjet-technologies-offer-new-opportunities-publishing-packaging-psps-china-print-2017/" class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov" tabindex="0">
-                                                                                <img class="latest-posts-crs-img" src="http://www.noortec.com/wp-content/uploads/2017/07/ChinaPrintEISD-420x240.png" width="420" height="240" alt="" title="ChinaPrintEISD"/>													<span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">Read more +</span>
+                                                                        <div class="post latest-posts-crs-post  slick-active"
+                                                                             data-slick-index="8" aria-hidden="false"
+                                                                             tabindex="-1" role="option"
+                                                                             aria-describedby="slick-slide58"
+                                                                             >
+                                                                            <a href="http://www.noortec.com/kodaks-inkjet-technologies-offer-new-opportunities-publishing-packaging-psps-china-print-2017/"
+                                                                               class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
+                                                                               tabindex="0">
+                                                                                <img class="latest-posts-crs-img"
+                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/07/ChinaPrintEISD-420x240.png"
+                                                                                     width="420" height="240" alt=""
+                                                                                     title="ChinaPrintEISD"/>
+                                                                                <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
+                                                                                    Read more +
+                                                                                </span>
                                                                             </a>
                                                                             <em class="latest-posts-crs-details">
-                                                                                08/05/2017													By													admin													in													<a href="http://www.noortec.com/category/all-news/" title="View all posts in All News" tabindex="0">All News</a>, <a href="http://www.noortec.com/category/all-news/kodak/" title="View all posts in KODAK News" tabindex="0">KODAK News</a>												</em>
-                                                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title" itemprop="headline"><a class="latest-posts-crs-title-link" href="http://www.noortec.com/kodaks-inkjet-technologies-offer-new-opportunities-publishing-packaging-psps-china-print-2017/" tabindex="0">Kodak’s inkjet technologies offer new opportunities for publishing and packaging PSPs at China Print 2017</a></h3>
+                                                                                08/05/2017 By admin in													<a
+                                                                                    href="http://www.noortec.com/category/all-news/"
+                                                                                    title="View all posts in All News"
+                                                                                    tabindex="0">All News</a>,
+                                                                                <a
+                                                                                        href="http://www.noortec.com/category/all-news/kodak/"
+                                                                                        title="View all posts in KODAK News"
+                                                                                        tabindex="0">KODAK News
+                                                                                </a>
+                                                                            </em>
+                                                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
+                                                                                itemprop="headline">
+                                                                                <a class="latest-posts-crs-title-link"
+                                                                                   href="http://www.noortec.com/kodaks-inkjet-technologies-offer-new-opportunities-publishing-packaging-psps-china-print-2017/"
+                                                                                   tabindex="0">Kodak’s inkjet
+                                                                                    technologies offer new opportunities
+                                                                                    for publishing and packaging PSPs at
+                                                                                    China Print 2017
+                                                                                </a>
+                                                                            </h3>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                                 <div class="owl-item"
                                                                      style="width: 235px; margin-right: 10px;">
                                                                     <div class="item">
-                                                                        <div class="post latest-posts-crs-post  slick-active" data-slick-index="9" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide59" style="width: 380px;">
-                                                                            <a href="http://www.noortec.com/flexo-inkjet-offset-workflow-kodak-brings-china-print-2017/" class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov" tabindex="0">
-                                                                                <img class="latest-posts-crs-img" src="http://www.noortec.com/wp-content/uploads/2017/07/PrintForGood-420x240.jpg" width="420" height="240" alt="" title="PrintForGood"/>													<span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">Read more +</span>
+                                                                        <div class="post latest-posts-crs-post  slick-active"
+                                                                             data-slick-index="9" aria-hidden="false"
+                                                                             tabindex="-1" role="option"
+                                                                             aria-describedby="slick-slide59"
+                                                                             >
+                                                                            <a href="http://www.noortec.com/flexo-inkjet-offset-workflow-kodak-brings-china-print-2017/"
+                                                                               class="hoverBorder plus latest-posts-crs-link text-custom-parent-hov"
+                                                                               tabindex="0">
+                                                                                <img class="latest-posts-crs-img"
+                                                                                     src="http://www.noortec.com/wp-content/uploads/2017/07/PrintForGood-420x240.jpg"
+                                                                                     width="420" height="240" alt=""
+                                                                                     title="PrintForGood"/>
+                                                                                <span class="latest-posts-crs-readon u-trans-all-2s text-custom-child kl-main-bgcolor">
+                                                                                    Read more +
+                                                                                </span>
                                                                             </a>
                                                                             <em class="latest-posts-crs-details">
-                                                                                20/04/2017													By													admin													in													<a href="http://www.noortec.com/category/all-news/" title="View all posts in All News" tabindex="0">All News</a>, <a href="http://www.noortec.com/category/all-news/kodak/" title="View all posts in KODAK News" tabindex="0">KODAK News</a>												</em>
-                                                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title" itemprop="headline"><a class="latest-posts-crs-title-link" href="http://www.noortec.com/flexo-inkjet-offset-workflow-kodak-brings-china-print-2017/" tabindex="0">Flexo, Inkjet, Offset, Workflow – Kodak brings it all to China Print 2017</a></h3>
+                                                                                20/04/2017 By admin in													<a
+                                                                                    href="http://www.noortec.com/category/all-news/"
+                                                                                    title="View all posts in All News"
+                                                                                    tabindex="0">All News</a>,
+                                                                                <a
+                                                                                        href="http://www.noortec.com/category/all-news/kodak/"
+                                                                                        title="View all posts in KODAK News"
+                                                                                        tabindex="0">KODAK News
+                                                                                </a>
+                                                                            </em>
+                                                                            <h3 class="m_title m_title_ext text-custom latest-posts-crs-title"
+                                                                                itemprop="headline">
+                                                                                <a class="latest-posts-crs-title-link"
+                                                                                   href="http://www.noortec.com/flexo-inkjet-offset-workflow-kodak-brings-china-print-2017/"
+                                                                                   tabindex="0">Flexo, Inkjet, Offset,
+                                                                                    Workflow – Kodak brings it all to
+                                                                                    China Print 2017
+                                                                                </a>
+                                                                            </h3>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -2062,7 +2483,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                                                             $(document).ready(function() {
                                                             var owl2 = $('.owl2');
                                                             owl2.owlCarousel({
-                                                            items: 4,
+                                                            items: 3,
                                                             loop: true,
                                                             margin: 10,
                                                             autoplay: true,
@@ -2581,10 +3002,7 @@ var ZnThemeAjax = {"ajaxurl":"\/wp-admin\/admin-ajax.php","zn_back_text":"Back",
                     <div class="laptop-slider__slideshow eluidb904304d uh_0   ls--lapt_desc"
                          data-active-slide="0">
 
-                        <div class="bgback"></div>
-                        <div class="ls-source__mask ls-source__mask-back"></div>
-                        <div class="ls-source__mask ls-source__mask-front"></div>
-                        <div class="th-sparkles"></div>
+
 
                         <div class="laptop-slider__inner container ls--theme-dark">
                             <div class=" ls__container kl-slideshow-safepadding">
